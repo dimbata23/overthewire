@@ -47,7 +47,7 @@ $ cat inhere/...Hiding-From-You
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 ```
 
-## 🔑 Bandit1 password
+## 🔑 Bandit4 password
 ```
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 ```

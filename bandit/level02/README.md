@@ -26,7 +26,7 @@ $ cat "spaces in this filename"
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 ```
 
-## 🔑 Bandit1 password
+## 🔑 Bandit3 password
 ```
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 ```

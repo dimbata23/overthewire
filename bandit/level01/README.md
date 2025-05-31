@@ -36,7 +36,7 @@ $ ls
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 ```
 
-## 🔑 Bandit1 password
+## 🔑 Bandit2 password
 ```
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 ```

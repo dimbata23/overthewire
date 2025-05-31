@@ -44,7 +44,7 @@ $ cat inhere/maybehere07/.file2
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 ```
 
-## 🔑 Bandit1 password
+## 🔑 Bandit6 password
 ```
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 ```

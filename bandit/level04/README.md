@@ -32,7 +32,7 @@ $ cat inhere/-file07
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 ```
 
-## 🔑 Bandit1 password
+## 🔑 Bandit5 password
 ```
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 ```
