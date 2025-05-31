@@ -28,10 +28,12 @@ This level was a great lesson on how seemingly simple filenames can be tricky in
 
 ```bash
 # 1. List the contents of the current directory to verify '-' exists
-ls
+$ ls
+-
 
 # 2. Read the content of the '-' file to get the password
-cat ./-
+> cat ./-
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 ```
 
 ## 🔑 Bandit1 password

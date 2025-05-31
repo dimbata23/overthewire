@@ -18,10 +18,12 @@ So, I tried `cat "spaces in this filename"`. It worked instantly, revealing the 
 
 ```bash
 # 1. List the contents of the current directory to verify 'spaces in this filename' exists
-ls
+$ ls
+spaces in this filename
 
 # 2. Read the content of the 'spaces in this filename' file to get the password
-cat "spaces in this filename"
+$ cat "spaces in this filename"
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 ```
 
 ## 🔑 Bandit1 password

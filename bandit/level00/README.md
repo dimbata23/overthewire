@@ -19,10 +19,12 @@ This is the very first level of the Bandit wargame, designed to introduce the ab
 
 ```bash
 # 1. List the contents of the current directory to verify 'readme' exists
-ls
+$ ls
+readme
 
 # 2. Read the content of the 'readme' file to get the password
-cat readme
+$ cat readme
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ```
 
 ## 🔑 Bandit1 password
