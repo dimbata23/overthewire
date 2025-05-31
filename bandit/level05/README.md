@@ -12,8 +12,11 @@ The password for the next level is stored in a file somewhere under the **inhere
 
 ## 💡 My Thought Process & Approach
 
-Alright let's start with looking at the properties of the files again: `file inhere/*`.. oh they are all directories.. it's a tree.
-Maybe we can you `find` for a recursive search. Let's look in `man find` for something that checks size. Oh so: `find -size 1033c`. Great thre's only one file with that exact size! Let's `cat` it, super it starts with a password and is filled with empty characters until the end of the file.
+My first attempt was to use `file inhere/*`, but I quickly saw that everything listed was a directory, not a file. This immediately told me the password was buried deeper within a "tree" of directories.
+
+Knowing I needed a recursive search, I consulted `man find`. The `-size` predicate stood out, fitting the "1033 bytes" requirement perfectly. So, I ran `find inhere -size 1033c`.
+
+Thankfully, this command returned just one file!
 
 
 ---
