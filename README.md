@@ -28,8 +28,8 @@ Each wargame will have its own dedicated directory. Within each wargame's direct
 ## 🚦 Wargames Progress
 
 | Wargame    | Status          | Last Update | Notes                                                |
-| :---------- | :-------------- | :---------- | :--------------------------------------------------- |
-| **Bandit** | ⏳ In Progress  | 2025 May | Focuses on basic Linux command-line skills.          |
+| :---------- | :-------------- |:------------| :--------------------------------------------------- |
+| **Bandit** | ⏳ In Progress  | 2025 June   | Focuses on basic Linux command-line skills.          |
 | Leviathan   | ⚪ Not Started  |             | More advanced binary exploitation.                   |
 | Natas       | ⚪ Not Started  |             | Web security challenges.                             |
 | Krypton     | ⚪ Not Started  |             | Cryptography puzzles.                                |
